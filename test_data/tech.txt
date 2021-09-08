@@ -1,0 +1,7 @@
+Microsoft on Tuesday announced a low-code programming tool that allows users to essentially write code without any coding knowledge.
+The product, called Power App Ideas, is the first to come out of Microsoft’s partnership with artificial intelligence (AI) research company OpenAI, which was announced last year.
+It uses OpenAI’s Generative Pre-Trained Transformer-3 (GPT-3) AI model, one of the most advanced natural language AI models in the world today.
+
+According to Microsoft, the new product will allow users to simply write what they want an app to do in natural language, and the AI will automatically generate codes in Power Fx, an open-source low-code programming language developed by Microsoft.
+The company demonstrated an example where the user writes “show me customers from the US whose subscription expired" to have the relevant codes displayed automatically.
+The codes will be accompanied by an explanation of how they work, says Microsoft.
