@@ -8,3 +8,6 @@ https://www.kaggle.com/shivamkushwaha/bbc-full-text-document-classification
 2. Open the notebook and run it.
 
 I have tried to explain the process as simple as possible.
+
+
+## Happy Coding 🙂
